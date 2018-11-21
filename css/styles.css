@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  text-decoration-style: dashed;
+  background-color: yellow;
+  line-height: 1;
+  background-image: url(http://images6.fanpop.com/image/photos/34100000/bright-sky-tree-frogs-34118600-1920-1200.jpg);
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: green;
+}
+h3{
+  colo:yellow;
+}
+ul{
+  color:red;
+  text-align: left;
+  font-weight: 4000;
+  font-family: sans-serif;
+}
+ol{
+  color:violet;
+  text-align: left;
+  font-weight: 4000;
+  font-family: sans-serif
+}
+img{
+  width: 20%;
+  height: 20%;
+}
